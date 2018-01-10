@@ -881,12 +881,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/011118-1000x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/011118-1000x1000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/01adg-1000x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01adg-1000x1000-800x800.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1018,7 +1018,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
